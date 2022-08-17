@@ -4,7 +4,7 @@
 
 Pre-requisites
 
-- Need Rust in order to execute. ![https://www.rust-lang.org/tools/install]https://www.rust-lang.org/tools/install
+- Need Rust in order to execute. https://www.rust-lang.org/tools/install
 
 You can download the release at the Github Release Section -->
 
